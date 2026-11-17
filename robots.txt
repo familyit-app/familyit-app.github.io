@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://familyit-app.github.io
+Sitemap: https://familyit-app.github.io/sitemap.xml
